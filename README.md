@@ -1,3 +1,2 @@
 # SLR_DOST_dataset
-Dataset of Systematic Literature Review of Domain-oriented Specification Techniques
-Plus the submitted and accepted manuscript for the Journal of Systems and Software, which refers to the dataset.
+Systematic Literature Review of Domain-oriented Specification Techniques, and the datset on which it is based. Submitted and accepted by the Journal of Systems and Software.
